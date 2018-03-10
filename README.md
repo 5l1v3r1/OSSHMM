@@ -2,4 +2,4 @@
 Open Source Speed Hacking Methodology Manual (OSSHMM)
 
 # Note
-Please come back soon ... Will update later!
+Please come back soon ... Will update once a week!
